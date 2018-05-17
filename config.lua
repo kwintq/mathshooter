@@ -1,0 +1,11 @@
+
+
+application =
+{
+	content =
+	{
+
+		scale = "letterbox"
+	},
+}
+
